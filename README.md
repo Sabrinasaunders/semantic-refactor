@@ -1,4 +1,4 @@
-# semantic-refactor
+# Semantic Refactor
 
 ## Description 
 The purpose of this project is to learn how to write semantic HTML and how . It is important to learn how to write semantic HTML because it allows for webpages to be more accessible to it's users. While changing HTML code to be semantic, it is also important to keep the integrity of the webpages design. Webpages written with semantic HTML allow search engines to better translate the information they provide.
